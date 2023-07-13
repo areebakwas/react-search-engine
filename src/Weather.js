@@ -24,7 +24,7 @@ export default function Search() {
         <input type="submit" value="Submit" />
       </form>
       <h2>{message}</h2>
-      <a href="https://github.com/areebakwas/react-search-engine" rel="noreferrer">Open Source code by AA</a>
+      <a href="https://github.com/areebakwas/react-search-engine" target="_blank" rel="noreferrer">Open Source code by AA</a>
     </div>
   );
 }
